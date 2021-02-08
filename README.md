@@ -10,11 +10,11 @@ If you want you can open this link and then click the copy icon in the (i) Overv
 
 ## INSTRUCTIONS!!!
 
-Open the document in Google Drive that you want to copy.
+Open the original document in Google Drive that you want to copy.
 
 Look at the URL; there is a string of weird letters and numbers; that is the document ID.
 
-Copy the document ID and REPLACE it in the line of code below.
+Copy the document ID and REPLACE it in the script on line 19.
 
 Notice there are single quotations around the document ID, that is important!
 
