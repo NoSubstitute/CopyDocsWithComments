@@ -1,5 +1,10 @@
 # CopyDocsWithComments
-This script will allow you to make copies of a Google Document with comments in your Google Drive.
+
+This script is only slightly altered from Alice Keeler's CopyDocs to include comments 
+from the original document. If you don't want comments copied, use Alice's original.
+https://alicekeeler.com/2015/07/11/making-a-lot-of-copies-of-the-same-google-docs
+
+### This script will allow you to make copies of a Google Document with comments in your Google Drive.
 
 If the original is in a folder, then the copies will be made in the same folder.
 
@@ -21,10 +26,6 @@ Notice there are single quotations around the document ID, that is important!
 When you have changed the number of copies and the document ID in the script, 
 you will click on the save icon and then go to the Run menu and choose copyDocs.
 Authorize the script and copies will be made to your drive.
-
-This script is only slightly altered from Alice Keeler's CopyDocs to include comments 
-from the original document. If you don't want comments copied, use Alice's original.
-https://alicekeeler.com/2015/07/11/making-a-lot-of-copies-of-the-same-google-docs
 
 If you copy the code and not my script, then you have to do this too:
 
