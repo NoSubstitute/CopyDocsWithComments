@@ -1,12 +1,9 @@
 # CopyDocsWithComments
 This script will allow you to make copies of a Google Document with comments in your Google Drive.
-
 If the original is in a folder, then the copies will be made in the same folder.
-
 Be careful of what you change. Each semicolon is very important.
 
-If you want you can open this link and then click to get a copy of the script, instead of copy-pasting.
-
+If you want you can open this link and then click the copy icon in the (i) Overview to get a copy of the script, instead of copy-pasting.
 [CopyDocsWithComments template](https://script.google.com/d/1UI1YqxOlEYiTRwPxkhuZwSt9YfU2nkXdvDuDB5T12IFw2kzPPe9SwQiI/edit)
 
 ## INSTRUCTIONS!!!
